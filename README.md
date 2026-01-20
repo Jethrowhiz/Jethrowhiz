@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jethrowhiz/Jethrowhiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jethro Samson
+### Web3 & Frontend Developer
 
-Here are some ideas to get you started:
+Building clean user interfaces & decentralized applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧠 About Me
+- 👋 Hi, I’m Jethro Samson
+- 🌐 Web3 & Frontend Developer
+- ⚡ I build dApps and modern web interfaces
+- 🎯 Focused on clean UI, performance, and Web3 UX
+
+---
+
+## 🌍 Socials
+[LinkedIn](https://linkedin.com) •
+[X](https://x.com/LilwhizSJ) •
+[Portfolio](https://Jethrosamson.com)
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+### Web3
+- Ethers.js
+- Web3.js
+- Solidity
+- MetaMask
+
+### Tools
+- Git
+- GitHub
+- Vercel
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](   )
+
+![Top Languages](   )
+
+---
+
+⭐ Open to learning, collaboration, and Web3 opportunities
