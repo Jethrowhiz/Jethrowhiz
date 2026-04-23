@@ -16,15 +16,14 @@
 <img align="right" src="https://your-gif-link-here.gif" width="40%"/>
   <br>
 
-- 🧑‍💻 <samp><b>Web3 & Full Stack Developer</b>
-- 🎓 <samp><b>B.Tech in Computer Science / Related Field (Your Year - Your Year)</b>
+- 🧑‍💻 <samp><b>Web3 & Frontend Developer</b>
 - 🔗 <samp>Building Decentralized Applications (dApps) & Blockchain Infrastructure
-- 🏆 <samp>Hackathon Finalist / Web3 Builder / Open Source Contributor
+- 🏆 <samp>Web3 Builder / Open Source Contributor
 - 💼 <samp>Open to **Full-Time / Remote / Contract** Opportunities.
-- 💬 <samp>Ask me about Solidity, Smart Contracts, React, Next.js, Ethers.js & Web3.js
+- 💬 <samp>Ask me about Solidity, Smart Contracts, React, Ethers.js & Web3.js
 - 📚 <samp>Currently diving deep into Smart Contract Security & Layer 2 Scaling
 - ⚡ <samp>Fun fact: I optimize gas fees like they’re precious fuel in a spaceship.
-- ♟ <samp>Outside coding: Chess, Gaming, Tech Research & Community Building.
+- ♟ <samp>Outside coding: Gym, Gaming, Tech Research & Community Building.
 </div>
 
 ##
@@ -33,15 +32,14 @@
 <h3><b><samp>Experiences:</samp></b></h3>
 
 - 🧑‍💻 <b>Web3 Developer / Smart Contract Engineer</b><br>
-- 🔐 <b>Built & Deployed Smart Contracts (Solidity | Hardhat | Foundry)</b><br>
-- 🌐 <b>Full Stack Developer (React | Next.js | Node.js | Web3 Integration)</b><br>
-- 🪙 <b>Developed dApps interacting with Ethereum / Polygon Networks</b><br>
+- 🔐 <b>Built & Deployed Smart Contracts (Solidity | Hardhat | )</b><br>
+- 🌐 <b>Frontend Developer (React | Tailwind.Css |  | Web3 Integration)</b><br>
+- 🪙 <b>Developed dApps interacting with Ethereum</b><br>
 - 🧪 <b>Smart Contract Testing & Gas Optimization Specialist</b><br>
 - 🏆 <b>Participant / Finalist – Blockchain & Web3 Hackathons</b><br>
 - 📦 <b>Integrated Wallets (MetaMask | WalletConnect) & Web3 APIs</b><br>
 - ☁ <b>Cloud Deployment (Vercel | AWS | Docker)</b><br>
-- 👨🏻‍🏫 <b>Web3 Community Contributor / Mentor</b><br>
-- 🎤 <b>Technical Speaker – Blockchain & Modern Web Technologies</b><br>
+- 👨🏻‍🏫 <b>Web3 Community Contributor</b><br>
 
 </div>
 
