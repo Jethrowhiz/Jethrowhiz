@@ -67,14 +67,6 @@
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
 </p>
 
-<h4><b><samp>Backend</samp></b></h4>
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django"/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase"/>
-</p>
 
 <h4><b><samp>Blockchain / Web3</samp></b></h4>
 
